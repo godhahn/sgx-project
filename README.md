@@ -1,4 +1,4 @@
-# SGX Derivatives Data Downloader
+# SGX Derivatives Data Downloader CLI
 Simple Python CLI tool to download SGX derivatives tick and trade cancellation data.
 
 - `WEBPXTICK_DT-YYYYMMDD.zip`
