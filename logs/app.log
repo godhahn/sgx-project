@@ -1,0 +1,106 @@
+2025-10-12 14:45:51 [INFO] range_downloader: Starting range run: 20251003 -> 20251006
+2025-10-12 14:45:51 [INFO] core: [20251003] Processing date...
+2025-10-12 14:45:51 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): links.sgx.com:443
+2025-10-12 14:45:52 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:52 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:52 [INFO] core: [20251003] Successfully confirmed ID: 6043
+2025-10-12 14:45:52 [INFO] core: [20251003] Downloading WEBPXTICK_DT.zip to save as WEBPXTICK_DT-20251003.zip
+2025-10-12 14:45:52 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "GET /1.0.0/derivatives-historical/6043/WEBPXTICK_DT.zip HTTP/11" 200 12491954
+2025-10-12 14:45:53 [INFO] core: [20251003] Downloaded: WEBPXTICK_DT-20251003.zip
+2025-10-12 14:45:53 [INFO] core: [20251003] Downloading TickData_structure.dat to save as TickData_structure.dat
+2025-10-12 14:45:53 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "GET /1.0.0/derivatives-historical/6043/TickData_structure.dat HTTP/11" 200 706
+2025-10-12 14:45:53 [INFO] core: [20251003] Downloaded: TickData_structure.dat
+2025-10-12 14:45:53 [INFO] core: [20251003] Downloading TC.txt to save as TC_20251003.txt
+2025-10-12 14:45:53 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "GET /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 131
+2025-10-12 14:45:53 [INFO] core: [20251003] Downloaded: TC_20251003.txt
+2025-10-12 14:45:53 [INFO] core: [20251003] Downloading TC_structure.dat to save as TC_structure.dat
+2025-10-12 14:45:53 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "GET /1.0.0/derivatives-historical/6043/TC_structure.dat HTTP/11" 200 628
+2025-10-12 14:45:53 [INFO] core: [20251003] Downloaded: TC_structure.dat
+2025-10-12 14:45:53 [INFO] core: [20251003] All files successfully processed/verified.
+2025-10-12 14:45:53 [INFO] core: [20251004] Processing date...
+2025-10-12 14:45:53 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:53 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:53 [INFO] core: [20251004] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:53 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:53 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:53 [INFO] core: [20251004] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:53 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:53 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:53 [INFO] core: [20251004] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:53 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:53 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:53 [INFO] core: [20251004] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251004] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:54 [INFO] core: [20251004] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251004] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:54 [INFO] core: [20251004] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251004] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:54 [INFO] core: [20251004] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [ERROR] core: [20251004] Failed to find correct ID after 10 attempts.
+2025-10-12 14:45:54 [ERROR] core: [20251004] CRITICAL: Could not determine SGX ID. This could be a non-business day or a data gap. Skipping.
+2025-10-12 14:45:54 [INFO] core: [20251004] Recorded in failed_dates.txt (as 2025-10-04)
+2025-10-12 14:45:54 [INFO] core: [20251005] Processing date...
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6044 is for 20251006. Adjusting by -1 business days.
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6043/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6043 corresponds to date 20251003
+2025-10-12 14:45:54 [INFO] core: [20251005] ID 6043 is for 20251003. Adjusting by 1 business days.
+2025-10-12 14:45:54 [ERROR] core: [20251005] Failed to find correct ID after 10 attempts.
+2025-10-12 14:45:54 [ERROR] core: [20251005] CRITICAL: Could not determine SGX ID. This could be a non-business day or a data gap. Skipping.
+2025-10-12 14:45:54 [INFO] core: [20251005] Recorded in failed_dates.txt (as 2025-10-05)
+2025-10-12 14:45:54 [INFO] core: [20251006] Processing date...
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "HEAD /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 0
+2025-10-12 14:45:54 [DEBUG] core: ID 6044 corresponds to date 20251006
+2025-10-12 14:45:54 [INFO] core: [20251006] Successfully confirmed ID: 6044
+2025-10-12 14:45:54 [INFO] core: [20251006] Downloading WEBPXTICK_DT.zip to save as WEBPXTICK_DT-20251006.zip
+2025-10-12 14:45:54 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "GET /1.0.0/derivatives-historical/6044/WEBPXTICK_DT.zip HTTP/11" 200 12806350
+2025-10-12 14:45:55 [INFO] core: [20251006] Downloaded: WEBPXTICK_DT-20251006.zip
+2025-10-12 14:45:55 [INFO] core: [20251006] Downloading TickData_structure.dat to save as TickData_structure.dat
+2025-10-12 14:45:55 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "GET /1.0.0/derivatives-historical/6044/TickData_structure.dat HTTP/11" 200 706
+2025-10-12 14:45:55 [INFO] core: [20251006] Downloaded: TickData_structure.dat
+2025-10-12 14:45:55 [INFO] core: [20251006] Downloading TC.txt to save as TC_20251006.txt
+2025-10-12 14:45:55 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "GET /1.0.0/derivatives-historical/6044/TC.txt HTTP/11" 200 177
+2025-10-12 14:45:55 [INFO] core: [20251006] Downloaded: TC_20251006.txt
+2025-10-12 14:45:55 [INFO] core: [20251006] Downloading TC_structure.dat to save as TC_structure.dat
+2025-10-12 14:45:55 [DEBUG] urllib3.connectionpool: https://links.sgx.com:443 "GET /1.0.0/derivatives-historical/6044/TC_structure.dat HTTP/11" 200 628
+2025-10-12 14:45:55 [INFO] core: [20251006] Downloaded: TC_structure.dat
+2025-10-12 14:45:55 [INFO] core: [20251006] All files successfully processed/verified.
+2025-10-12 14:45:55 [INFO] range_downloader: Range run complete.
+2025-10-12 14:45:55 [WARNING] range_downloader: Some dates failed. See logs/failed_dates.txt and logs/app.log for details.

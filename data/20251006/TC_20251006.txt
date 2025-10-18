@@ -1,0 +1,3 @@
+Commodity	Contract_Type	Delivery_Month	Delivery_Year	Strike_Price	Business_Date	Match_Time	Price_Indicator	Price	Message_Code	Amend_Code	Volume
+SWF	F	X	2025	0000000	20251006	183211	 	0000013750	Y	D	00015
+SWF	F	X	2025	0000000	20251006	183211	 	0000013750	Y	D	00015

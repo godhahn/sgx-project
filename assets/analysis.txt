@@ -1,0 +1,128 @@
+--- Analysis: Missing Days ---    
+  - ID 30 -> 31: Jumps from 2002-12-05 to 2013-04-04 (3772 day(s) skipped)
+  - ID 1605 -> 1606: Jumps from 2007-03-21 to 2007-03-23 (1 day(s) skipped)
+  - ID 2709 -> 2710: Jumps from 2002-10-02 to 2009-04-10 (2381 day(s) skipped)
+  - ID 2755 -> 2756: Jumps from 2013-04-05 to 2013-04-08 (2 day(s) skipped)
+  - ID 2760 -> 2761: Jumps from 2013-04-12 to 2013-04-15 (2 day(s) skipped)
+  - ID 2765 -> 2766: Jumps from 2013-04-19 to 2013-04-22 (2 day(s) skipped)
+  - ID 2777 -> 2778: Jumps from 2013-05-03 to 2013-05-06 (2 day(s) skipped)
+  - ID 2782 -> 2783: Jumps from 2013-05-10 to 2013-05-13 (2 day(s) skipped)
+  - ID 2787 -> 2788: Jumps from 2013-05-17 to 2013-05-20 (2 day(s) skipped)
+  - ID 2792 -> 2793: Jumps from 2013-05-24 to 2013-05-27 (2 day(s) skipped)
+
+--- Analysis: Missing IDs ---
+  - Missing ID(s) between 663 and 665
+  - Missing ID(s) between 925 and 927
+  - Missing ID(s) between 1002 and 1004
+  - Missing ID(s) between 1006 and 1009
+  - Missing ID(s) between 1009 and 1011
+  - Missing ID(s) between 1013 and 1015
+  - Missing ID(s) between 1015 and 1017
+  - Missing ID(s) between 1017 and 1019
+  - Missing ID(s) between 1027 and 1030
+  - Missing ID(s) between 1063 and 1065
+  - Missing ID(s) between 1065 and 1067
+  - Missing ID(s) between 1068 and 1070
+  - Missing ID(s) between 1076 and 1078
+  - Missing ID(s) between 1115 and 1117
+  - Missing ID(s) between 1127 and 1129
+  - Missing ID(s) between 1146 and 1148
+  - Missing ID(s) between 1150 and 1152
+  - Missing ID(s) between 1154 and 1156
+  - Missing ID(s) between 1160 and 1162
+  - Missing ID(s) between 1166 and 1168
+  - Missing ID(s) between 1215 and 1220
+  - Missing ID(s) between 1222 and 1225
+  - Missing ID(s) between 1225 and 1228
+  - Missing ID(s) between 1229 and 1232
+  - Missing ID(s) between 1232 and 1236
+  - Missing ID(s) between 1255 and 1259
+  - Missing ID(s) between 1279 and 1281
+  - Missing ID(s) between 1287 and 1289
+  - Missing ID(s) between 1300 and 1302
+  - Missing ID(s) between 1302 and 1304
+  - Missing ID(s) between 1313 and 1315
+  - Missing ID(s) between 1319 and 1321
+  - Missing ID(s) between 1346 and 1348
+  - Missing ID(s) between 1356 and 1358
+  - Missing ID(s) between 1365 and 1367
+  - Missing ID(s) between 1372 and 1374
+  - Missing ID(s) between 1376 and 1378
+  - Missing ID(s) between 1400 and 1402
+  - Missing ID(s) between 1486 and 1488
+  - Missing ID(s) between 1489 and 1491
+  - Missing ID(s) between 1508 and 1510
+  - Missing ID(s) between 1535 and 1537
+  - Missing ID(s) between 1541 and 1543
+  - Missing ID(s) between 1582 and 1584
+  - Missing ID(s) between 1592 and 1594
+  - Missing ID(s) between 1609 and 1612
+  - Missing ID(s) between 1627 and 1630
+  - Missing ID(s) between 1630 and 1632
+  - Missing ID(s) between 1639 and 1641
+  - Missing ID(s) between 1649 and 1655
+  - Missing ID(s) between 1657 and 1661
+  - Missing ID(s) between 1664 and 1666
+  - Missing ID(s) between 1667 and 1670
+  - Missing ID(s) between 1671 and 1673
+  - Missing ID(s) between 1677 and 1679
+  - Missing ID(s) between 1680 and 1683
+  - Missing ID(s) between 1688 and 1690
+  - Missing ID(s) between 1690 and 1695
+  - Missing ID(s) between 1695 and 1697
+  - Missing ID(s) between 1706 and 1708
+  - Missing ID(s) between 1708 and 1710
+  - Missing ID(s) between 1715 and 1718
+  - Missing ID(s) between 1718 and 1720
+  - Missing ID(s) between 1724 and 1726
+  - Missing ID(s) between 1741 and 1743
+  - Missing ID(s) between 1747 and 1750
+  - Missing ID(s) between 1755 and 1757
+  - Missing ID(s) between 1757 and 1759
+  - Missing ID(s) between 1760 and 1762
+  - Missing ID(s) between 1781 and 1783
+  - Missing ID(s) between 1814 and 1816
+  - Missing ID(s) between 1818 and 1820
+  - Missing ID(s) between 1821 and 1824
+  - Missing ID(s) between 1828 and 1830
+  - Missing ID(s) between 1831 and 1833
+  - Missing ID(s) between 1834 and 1836
+  - Missing ID(s) between 1850 and 1852
+  - Missing ID(s) between 1854 and 1857
+  - Missing ID(s) between 1858 and 1860
+  - Missing ID(s) between 1862 and 1864
+  - Missing ID(s) between 1866 and 1868
+  - Missing ID(s) between 1871 and 1873
+  - Missing ID(s) between 1892 and 1894
+  - Missing ID(s) between 1895 and 1898
+  - Missing ID(s) between 1902 and 1904
+  - Missing ID(s) between 1923 and 1925
+  - Missing ID(s) between 1928 and 1930
+  - Missing ID(s) between 1943 and 1945
+  - Missing ID(s) between 1946 and 1948
+  - Missing ID(s) between 1977 and 1979
+  - Missing ID(s) between 1979 and 1981
+  - Missing ID(s) between 1997 and 1999
+  - Missing ID(s) between 2142 and 2144
+  - Missing ID(s) between 2148 and 2151
+  - Missing ID(s) between 2153 and 2155
+  - Missing ID(s) between 2169 and 2171
+  - Missing ID(s) between 2173 and 2176
+  - Missing ID(s) between 2255 and 2257
+  - Missing ID(s) between 2278 and 2280
+  - Missing ID(s) between 2334 and 2337
+  - Missing ID(s) between 2542 and 2544
+  - Missing ID(s) between 2724 and 2755
+  - Missing ID(s) between 2770 and 2773
+  - Missing ID(s) between 2872 and 2874
+  - Missing ID(s) between 3024 and 3026
+  - Missing ID(s) between 3029 and 3031
+  - Missing ID(s) between 3098 and 3100
+  - Missing ID(s) between 3256 and 3258
+  - Missing ID(s) between 3316 and 3318
+  - Missing ID(s) between 3328 and 3330
+  - Missing ID(s) between 3344 and 3346
+  - Missing ID(s) between 3589 and 3592
+  - Missing ID(s) between 3613 and 3615
+  - Missing ID(s) between 3709 and 3713
+  - Missing ID(s) between 3847 and 3850
